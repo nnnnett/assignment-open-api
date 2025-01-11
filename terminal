@@ -1,0 +1,3 @@
+nest new dog-api-project
+cd dog-api-project
+npm install @nestjs/axios axios 
